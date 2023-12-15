@@ -8,7 +8,7 @@ class MyModel extends ChangeNotifier{
     notifyListeners();
   }
 }
-// Step onE  make a class with any name;
+// Step one  make a class with any name;
 //aik variable bna lo
 // uska getter setter bnalo
 // functionality k liye function bna lo
